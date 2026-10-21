@@ -1,0 +1,6 @@
+{
+  "name": "EGA Digitizer & QBasic Code Studio",
+  "description": "Convert images to 4-bit EGA 16-color palette with advanced dithering. Export QBasic digit strings, DATA statements, BSAVE binary files, and ready-to-run loader and saver programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
